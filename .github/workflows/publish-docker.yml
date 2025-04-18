@@ -28,5 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: pokanop/excalidraw:latest
+          tags: ghcr.io/pokanop/excalidraw:latest
           platforms: linux/amd64, linux/arm64
